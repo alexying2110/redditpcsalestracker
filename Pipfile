@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+"900c18e" = {file = "https://github.com/kivy/plyer/zipball/master"}
+"win10toast" = "*"
+praw = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

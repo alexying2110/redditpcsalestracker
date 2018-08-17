@@ -1,0 +1,112 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "86c4b02cb31a5f19f6ad2a180df5e1657a639d50ae27645cd6230a623d979c0a"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "900c18e": {
+            "file": "https://github.com/kivy/plyer/zipball/master"
+        },
+        "certifi": {
+            "hashes": [
+                "sha256:4c1d68a1408dd090d2f3a869aa94c3947cc1d967821d1ed303208c9f41f0f2f4",
+                "sha256:b6e8b28b2b7e771a41ecdd12d4d43262ecab52adebbafa42c77d6b57fb6ad3a4"
+            ],
+            "version": "==2018.8.13"
+        },
+        "chardet": {
+            "hashes": [
+                "sha256:84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae",
+                "sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691"
+            ],
+            "version": "==3.0.4"
+        },
+        "idna": {
+            "hashes": [
+                "sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e",
+                "sha256:684a38a6f903c1d71d6d5fac066b58d7768af4de2b832e426ec79c30daa94a16"
+            ],
+            "version": "==2.7"
+        },
+        "praw": {
+            "hashes": [
+                "sha256:ccd3463c838d912073c82cc226f7d62fb01aecf2f33dff3f0456afc688f45376",
+                "sha256:ead6a4cce623f9a5093965a98e4f4bb5463920c8e4a5caf19098c585d06bb507"
+            ],
+            "index": "pypi",
+            "version": "==6.0.0"
+        },
+        "prawcore": {
+            "hashes": [
+                "sha256:00bb9d61b5653a4614dce22eabe312e565aac08619d23a961bdcaf32367ed69a",
+                "sha256:a9e84be5c58daf62dc5f8f11563bf63484066d0f6e60a07be33678a8ccab804b"
+            ],
+            "markers": "python_version != '3.0.*' and python_version >= '2.6' and python_version != '3.1.*' and python_version < '4' and python_version != '3.2.*' and python_version != '3.3.*'",
+            "version": "==1.0.0"
+        },
+        "pypiwin32": {
+            "hashes": [
+                "sha256:67adf399debc1d5d14dffc1ab5acacb800da569754fafdc576b2a039485aa775",
+                "sha256:71be40c1fbd28594214ecaecb58e7aa8b708eabfa0125c8a109ebd51edbd776a"
+            ],
+            "version": "==223"
+        },
+        "pywin32": {
+            "hashes": [
+                "sha256:0df9b008caef10af0d674c483316c28dcf78391332d9d5d380fab667ebf2d7d1",
+                "sha256:249391eb924b8376826e6f84d143d1dcc0e400b238b511d5fbd3811f6ed9ad50",
+                "sha256:42f48567e36b787901ff3da20de5a134cd9880cc90832e2aad60951f058699f0",
+                "sha256:9eff897796c9d76a213134257a01b6f8a122c55e0772847fba313a8091f3ec44",
+                "sha256:c7ea0deabcc324e5b74084b5452003109c592d1aedbe9e9289ed55b26d9b0c7f",
+                "sha256:da422d4067d98b49fbb19d851900a5fc38c61eab0ee803574c27c42309173ebe",
+                "sha256:f0f0e7c82ee334dd6e888b9b5beb05fd8947355fa7a15644c810bb4ea0079ca6",
+                "sha256:fb3c85907918fd01a72ee146d323d220771dee151c0cfa5630c2f35797ffb116"
+            ],
+            "version": "==223"
+        },
+        "requests": {
+            "hashes": [
+                "sha256:63b52e3c866428a224f97cab011de738c36aec0185aa91cfacd418b5d58911d1",
+                "sha256:ec22d826a36ed72a7358ff3fe56cbd4ba69dd7a6718ffd450ff0e9df7a47ce6a"
+            ],
+            "index": "pypi",
+            "version": "==2.19.1"
+        },
+        "update-checker": {
+            "hashes": [
+                "sha256:59cfad7f9a0ee99f95f1dfc60f55bf184937bcab46a7270341c2c33695572453",
+                "sha256:70e39446fccf77b21192cf7a8214051fa93a636dc3b5c8b602b589d100a168b8"
+            ],
+            "markers": "python_version != '3.0.*' and python_version >= '2.6' and python_version != '3.1.*' and python_version < '4' and python_version != '3.2.*' and python_version != '3.3.*'",
+            "version": "==0.16"
+        },
+        "urllib3": {
+            "hashes": [
+                "sha256:a68ac5e15e76e7e5dd2b8f94007233e01effe3e50e8daddf69acfd81cb686baf",
+                "sha256:b5725a0bd4ba422ab0e66e89e030c806576753ea3ee08554382c14e685d117b5"
+            ],
+            "markers": "python_version != '3.3.*' and python_version >= '2.6' and python_version != '3.0.*' and python_version != '3.2.*' and python_version != '3.1.*' and python_version < '4'",
+            "version": "==1.23"
+        },
+        "win10toast": {
+            "hashes": [
+                "sha256:44e5afa1001de88a0ee533872231521fa67c7d144f39974089af242d9c4620a4"
+            ],
+            "index": "pypi",
+            "version": "==0.9"
+        }
+    },
+    "develop": {}
+}
