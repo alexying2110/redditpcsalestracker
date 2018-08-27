@@ -3,7 +3,7 @@ An almost-certainly obsolete program to notify user about pc component sales bas
 
 Instructions for people who are newish to python:  
   1.  install pipenv using pip in bash/cmd  
-  2.  type "install pipenv" with the project directory open  
+  2.  type "pipenv install" with the project directory open  
   3.  type "pipenv run python saletracker.py"  
 
 Expected updates:  
