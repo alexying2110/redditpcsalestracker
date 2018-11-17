@@ -15,8 +15,6 @@ def main():
     passWord = input("Enter Reddit password: ")
     #praw OAuth
     bot = praw.Reddit(user_agent="salestracker",
-                      client_id="OqV1OSEZndcAvQ",
-                      client_secret="QPqg4-KgcR9UP_ztfiuq9jvDcuU",
                       username=userName,
                       password=passWord)
 
